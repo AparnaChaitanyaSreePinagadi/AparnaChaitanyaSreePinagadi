@@ -1,11 +1,7 @@
 ### Hi there 👋
 THIS IS APARNA
-<!--
-**AparnaChaitanyaSreePinagadi/AparnaChaitanyaSreePinagadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently studying 2nd yr ECE.
+Here are some ideas to get you started
+:- 🔭 I’m currently studying 2nd yr ECE.
 - 🌱 I’m currently learning GITHUB
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,4 +9,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me:paparnachaitanyasree@gmail.com
 - 😄 Pronouns:Adorable
 - ⚡ Fun fact:nothing is the only fact.
--->
+- <div>
+      <img style="zoom:100%" src=https://github-readme-stats.vercel.app/api?username=AparnaChaitanyaSreePinagadi&show_icons=true&theme=prussian height=202, width=60% />
+    <img style="zoom:100%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=AparnaChaitanyaSreePinagadi&show_icons=true&hide_border=true&theme=dark&hide=CSS,JavaScript height=202 width=30% />
+</div>
+
