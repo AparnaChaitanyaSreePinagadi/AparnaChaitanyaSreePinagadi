@@ -1,7 +1,7 @@
 ### Hi there 👋
 THIS IS APARNA
-Here are some ideas to get you started
-:- 🔭 I’m currently studying 2nd yr ECE.
+Here are some ideas to get you started:
+- 🔭 I’m currently studying 2nd yr ECE.
 - 🌱 I’m currently learning GITHUB
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
